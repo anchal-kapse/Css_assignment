@@ -1,0 +1,43 @@
+/* Navigation Bar */
+#head1 {
+    list-style-type: none;
+    color: #27bae7;
+    overflow: hidden;
+    background-color: black;
+    padding: 12px;
+    width: 98%;
+}
+
+.head2 {
+    float: left;
+    padding: 5px;
+}
+    /* Left Section */
+#edit{
+    background-color: yellow;
+    width: 170px;
+    height: 380px;
+    text-align: left;
+    padding: 20px;
+    float: left;
+}
+    /* Right Section */
+    #edit1{
+    background-color: yellow;
+    width: 200px;
+    height: 380px;
+    margin-right: 2px;
+    text-align: left;
+    padding: 20px;
+    float: right;
+}
+
+/* Footer */
+footer{
+    background-color: black;
+    padding: 12px;
+    width: 98%;
+    color: aliceblue;
+    margin-top: 450px;
+    text-align: center;
+}
